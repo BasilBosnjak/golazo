@@ -1,6 +1,3 @@
-<?php echo '<p>Hello World</p>';
-$txt = "W3Schools.com";
-echo "I love $txt!";
-
+<?php
+echo "Hello World!";
 ?>
-
