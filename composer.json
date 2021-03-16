@@ -1,0 +1,11 @@
+{
+    "name": "korisnik/golazo",
+    "license": "Apache2",
+    "authors": [
+        {
+            "name": "BasilBosnjak",
+            "email": "basil.bosnjak@stu.ibu.edu.ba"
+        }
+    ],
+    "require": {}
+}
